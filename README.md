@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 Feel free to explore and share your thoughts!
 Output :
-   ![output](./o-1 (2).png)
+   ![output](./o-1.png)
    ![output](./o-2.png)
    ![output](./o-3.png)
    ![output](./o-4.png)
